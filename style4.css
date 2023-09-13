@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+header{
+    height: 50px;
+    width: 100%;
+    background-color: cornflowerblue;
+    text-align: center;
+    color: white;
+    padding-top: 1%;
+    border: 4px solid rgb(3, 3, 3);
+    border-radius: 10px;
+    margin-top: 0.3%;
+}
+nav{
+    height: 40px;
+    width: 100%;
+    background-color: rgb(228, 134, 223);
+    text-align: center;
+    color: rgb(246, 243, 234);
+    padding: auto;
+    border: 4px solid black;
+    border-radius: 10px;
+    margin-top: 0.3%;
+    font-size: 20;
+}
+.main{
+height: 400px;
+width: 100%;
+color: white;
+text-align: center;
+margin-top: 0.3%;
+background-color: white;
+border: 4px solid black;
+border-radius: 10px;
+display: flex;
+}
+.colam-a{
+    width: 30%;
+    background-color: coral;
+    color: white;
+    border-radius: 10px;
+    padding-top: 20%;
+    font-size: 30;
+    border: 2px solid black;
+}
+.colam-b{
+    width: 70%;
+    background-color: darkolivegreen;
+    text-align: center;
+    padding-top: 20% ;
+    border-radius: 10px;
+    font-size: 30;
+    border: 2px solid black;
+    
+}
+footer{
+    height: 40px;
+    width: 100%;
+    background-color: brown;
+    text-align: center;
+    color: white;
+    border: 4px solid black;
+    margin-top: 0.3%;
+    border-radius: 10px;
+}
